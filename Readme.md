@@ -10,4 +10,3 @@
 - 💜 Interests: philosophy, travel, internet culture, video games, reading.
 - ⚡ Fun fact: The moon has moonquakes. They happen due to tidal stresses connected to the distance between the moon and the Earth.
 
-<br/>
