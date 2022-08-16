@@ -5,7 +5,7 @@
 - :heart: My favorite language: Javscript
 - 🌱 I’m currently learning: NextJS
 - 👯 I’m always looking to collaborate with: anyone from any field
-- 💬 Ask me about: anything, I am happy to help
+- 💬 Ask me about: Snything, I am happy to help.
 - 🌍 I support: Open-Source Projects.
 - 💜 Interests: philosophy, travel, internet culture, video games, reading.
 - ⚡ Fun fact: The moon has moonquakes. They happen due to tidal stresses connected to the distance between the moon and the Earth.
