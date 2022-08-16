@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: Real-time Chat app
 - :heart: My favorite language: Javscript
 - 🌱 I’m currently learning: NextJS
-- 👯 I’m always looking to collaborate with: anyone from any field
+- 👯 I’m always looking to collaborate with: Anyone from any field.
 - 💬 Ask me about: Snything, I am happy to help.
 - 🌍 I support: Open-Source Projects.
 - 💜 Interests: philosophy, travel, internet culture, video games, reading.
