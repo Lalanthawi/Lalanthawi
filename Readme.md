@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Real-time Chat app
 - :heart: My favorite language: Javscript
-- 🌱 I’m currently learning: NextJS
+- 🌱 I’m currently learning: Rust
 - 👯 I’m always looking to collaborate with: Anyone from any field.
 - 💬 Ask me about: Anything, I am happy to help.
 - 🌍 I support: Open-Source Projects.
