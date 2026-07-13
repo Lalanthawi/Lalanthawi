@@ -37,12 +37,6 @@ Infra        Docker · AWS (SES · SNS · S3) · Caddy · CI/CD
 Frontend     Next.js · React (when the backend needs a face)
 ```
 
-### What I'm focused on
-
-- Multi-app platforms running on a single, well-factored TypeScript backend
-- Payment and invoicing correctness — ledgers, deposits, reconciliation, never losing a cent
-- Event-driven automation: `webhook → queue → process → notify`, with retries and idempotency baked in
-
 ### Reach me
 
 <p>
